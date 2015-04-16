@@ -1,0 +1,19 @@
+header {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+article p {
+  color: #0B4141;
+  background-color: orange;
+}
+header h2 {
+  text-align: center;
+}
+header h1 {
+  font-size: 3em;
+}
+body:hover {
+  background-color:gray;
+}
